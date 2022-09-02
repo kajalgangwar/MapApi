@@ -1,0 +1,26 @@
+html {
+    box-sizing: border-box;
+    font-size: 100%;
+
+}
+* ,*::before,*::after {
+    box-sizing: inherit;
+
+}
+body{
+    margin:0;
+    padding:0;
+    background-color: black;
+    color:white;
+}
+h1{
+    font-family: 'Press Start 2P', cursive;
+    text-align: 2rem;
+    padding: 0 3em;
+}
+#map {
+height: 60vh ;
+}
+.gm-style-iw-d {
+    color:black;
+}
